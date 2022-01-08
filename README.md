@@ -1,3 +1,4 @@
-# 100days_of_Javascript_Template
+# Alert_Notification
 
-Updated @ Jan8-2022
+
+# Demo-Link : https://raydcode.github.io/alert-Notification/
